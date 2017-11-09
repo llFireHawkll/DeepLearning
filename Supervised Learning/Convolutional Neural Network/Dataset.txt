@@ -1,0 +1,5 @@
+#DATASET FOR CNN 
+Download the dataset from the given google drive link and extract the zip file and put the dataset in the same folder as that of
+the CNN code.
+
+LINK : 
